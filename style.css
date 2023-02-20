@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+@font-face {
+    font-family: "tecnologica" ;
+    src: url("font/ShareTechMono-Regular.ttf") format(truetype);
+}
+.barra{
+    background-color: #726196;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 45px;
+}
+
+details{
+    cursor: pointer;
+    font-family: 'Julee', cursive;
+    
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+main{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 100px;
+    background-color:#e294a4;
+}
+
+body{
+    background-color: #726196;
+}
+
+h1{
+    font-family: 'tecnologica';
+    color: aliceblue;
+    background-image: linear-gradient(#D2E2F1,#716C72,#AF5E6D);
+    text-align: center;
+    
+}
